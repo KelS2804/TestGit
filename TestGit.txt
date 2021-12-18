@@ -5,3 +5,6 @@
 5 KelS 1900145
 6 KVS Nguyen 1900159
 7 Nguyen dinh son 1900142
+8 Phi
+9 Nguyễn Bá Phi
+10 KelS 1900145
